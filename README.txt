@@ -1,0 +1,1 @@
+Sample RESTful service using JAX-RS & JERSY
